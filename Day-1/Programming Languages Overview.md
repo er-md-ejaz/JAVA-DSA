@@ -4,7 +4,9 @@ Just like we use languages (like English or Hindi) to talk to people, programmer
 
 # **Main Types of Programming Languages**
 <hr>
+
 ## *1. Machine Language*
+
 <hr>
 The lowest-level language, made of only 0s and 1s.
 
@@ -34,7 +36,9 @@ Examples: Python, Java, C++
 
 # **Other Classifications of Programming Languages**
 <hr>
+
 ## *A. Procedural Language*
+
 <hr>
 Solves problems step-by-step.
 
