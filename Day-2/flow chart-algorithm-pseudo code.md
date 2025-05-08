@@ -23,7 +23,7 @@ A process is the instance of a computer program that is being executed.
 An algorithm is a procedure or set of rules that defines how a program is to be executed. In the algorithm, plain text is used. The algorithm does not follow any rules
 
 # What is a Pseudocode? 
-It is the mimic of a code. Represents code-like structure of a algorithm.
+Pseudocode is an informal, code-like representation of an algorithm. It mimics the structure of actual programming code but is written in plain English to describe the logic clearly without adhering to any programming language syntax.
 
 # Example of Pseudocode
 
