@@ -18,7 +18,7 @@ It shows the steps as boxes of various kinds, and their order by connecting the 
 
 A process is the instance of a computer program that is being executed.
 
-# What is a Algorithm? 
+# What is an Algorithm? 
 
 An algorithm is a procedure or set of rules that defines how a program is to be executed. In the algorithm, plain text is used. The algorithm does not follow any rules
 
