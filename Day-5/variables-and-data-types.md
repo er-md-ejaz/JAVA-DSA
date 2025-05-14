@@ -53,7 +53,9 @@ A variable that is declared as static is called a static variable. It cannot be 
 Literals in Java is a synthetic representation of boolean, numeric, character, or string data.
 
 ## Integral literals 
-For Integral data types (byte, short, int, long), we can specify literals in 4 ways:- a) Decimal literals (Base 10) int x = 101;
+For Integral data types (byte, short, int, long), we can specify literals in 4 ways:- 
+a) Decimal literals (Base 10) int x = 101;
+
 b) Octal literals (Base 8) int x = 0146; // should be prefix with 0.
 
 c) Hexa-decimal literals (Base 16) int x = 0X123Face; //The hexa-decimal number should be prefix with 0X or 0x.
