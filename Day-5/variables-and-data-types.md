@@ -54,6 +54,7 @@ Literals in Java is a synthetic representation of boolean, numeric, character, o
 
 ## Integral literals 
 For Integral data types (byte, short, int, long), we can specify literals in 4 ways:- 
+
 a) Decimal literals (Base 10) int x = 101;
 
 b) Octal literals (Base 8) int x = 0146; // should be prefix with 0.
