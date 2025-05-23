@@ -5,7 +5,7 @@ If the JVM doesn't find a main() method with the proper signature, it won't exec
 
 # Example of a Valid main() Method Signature
 
-    public static void main(String[] args)
+    public static void main(String[ ] args)
 
 ## Explanation of Components:
 
@@ -21,7 +21,7 @@ Indicates the method doesn't return any value.
 ### main: 
 The method's name—recognized by the JVM as the program's starting point.
 
-### (String[] args): 
+### (String[ ] args): 
 A parameter that can accept command-line arguments as an array of Strings.
 
 # Why Is the main() Method Public?
